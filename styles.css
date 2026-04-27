@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+.a-style {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+}
+.nav {
+    background-color: #34495e;
+    padding: 12px 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 24px;
+}
